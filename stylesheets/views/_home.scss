@@ -1,0 +1,64 @@
+.perfil {
+	text-align: center;
+}
+.img-circle{
+	width: 20%;
+}
+.col-md-3 {
+	height: 250px;
+}
+.footer{
+	background-color: grey;
+	height: 30%;
+	position: relative;
+	top: 30%;
+}
+.navbar-default{
+	margin: 0px;
+}
+.navbar-nav{
+	text-align: center;
+	float: none;
+	li {
+     float: none;
+     display: inline-block;
+	}
+}
+.col-md-3 img {
+	width: 100%;
+}
+.row {
+	top: 42px;
+	position: relative;
+	margin: 26px;
+}
+/*.picture {
+  width: 100%;
+  background-image: url(../img/no.png);
+  height: 61%;
+  background-repeat: no-repeat;
+  background-size: cover; }*/
+
+.col-sm-3 img {
+  width: 20%;
+  float: left;
+  position: relative;
+  padding: 5px; 
+    }
+
+@font-face { 
+    font-family: Choplin-Medium-DEMO ;
+    src: url(../assets/tipografia/Choplin-Medium-DEMO.otf);
+}
+ h1,p{
+  font-family: "Choplin-Medium-DEMO";
+  
+} 
+@font-face { 
+    font-family: Choplin-ExtraLight-DEMO ;
+    src: url(../assets/tipografia/Choplin-ExtraLight-DEMO.otf);
+}
+ h3, h2, span {
+  font-family: "Choplin-ExtraLight-DEMO";
+  
+} 
